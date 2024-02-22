@@ -21,5 +21,5 @@ jobs:
           git config user.name github-actions-course
           git config user.email umair.saeed@yahoo.com
           git add .
-          git commint -m "Modified ..."
+          git commit -m 'Modified ...'
           
